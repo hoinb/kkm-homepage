@@ -24,7 +24,9 @@ Seite wird generiert mit Pelican https://getpelican.com/
 
 ## Bauen und lokal anzeigen
 
-``$ make clean html serve PORT=8001``
+``$ make clean html serve``
+
+Anzeige im Browser: [http://127.0.0.1:8000/index.html]
 
 ## Upload
 
