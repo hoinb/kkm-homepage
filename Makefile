@@ -10,7 +10,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 FTP_HOST=hst1.ncsrv.de
 FTP_USER=hst_2019313_02
-FTP_TARGET_DIR=/
+FTP_TARGET_DIR=httpdocs/
 
 
 DEBUG ?= 0

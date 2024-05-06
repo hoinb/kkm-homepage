@@ -33,7 +33,16 @@ AVATAR = '/images/kkm-logo-freigestellt-gelb.png'
 #    ("Another social link", "#"),
 #)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+DISPLAY_PAGES_ON_MENU = True
+
+DISPLAY_SUMMARY = True
+
+MENUITEMS = (('Start', SITEURL),)
+
+DISPLAY_CATEGORIES_ON_MENU = False
+

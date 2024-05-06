@@ -1,0 +1,3 @@
+pelican-project/output/*
+pelican-project/pelican-env/*
+pelican-project/__pycache__/*
