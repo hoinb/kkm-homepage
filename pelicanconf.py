@@ -28,10 +28,10 @@ AVATAR = '/images/kkm-logo-freigestellt-gelb.png'
 
 
 # Social widget
-#SOCIAL = (
-#    ("You can add links in your config file", "#"),
-#    ("Another social link", "#"),
-#)
+SOCIAL = (
+    ('instagram', 'https://www.instagram.com/kinderkleidermarkt.stpeter/'),
+    ('flohmarkthelfer', 'https://kinderkleidermarkt-st-peter.flohmarkthelfer.de/'),
+)
 
 DEFAULT_PAGINATION = 5
 
