@@ -20,11 +20,11 @@ Seite wird generiert mit Pelican https://getpelican.com/
 
 ## Python-Virtualenv aktivieren
 
-`$ source ~/virtualenvs/pelican/bin/activate`
+`source ~/virtualenvs/pelican/bin/activate`
 
 ## Bauen und lokal anzeigen
 
-`$ make clean html serve`
+`make clean html serve`
 
 Anzeige im Browser: [http://127.0.0.1:8000/index.html]
 
